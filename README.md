@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CartFlow 4.0 — Polished Multi-Collection E-Commerce Marketplace
 > **Enterprise SDET Intern Hackathon & Release Platform**  
 > **Release Branch:** `feature/cartflow-4-multi-collection`  
@@ -162,3 +163,7 @@ npx playwright test --project=msedge
 - [`docs/TEST_PLAN.md`](file:///c:/Users/HEMANTH/Documents/SDETintern/docs/TEST_PLAN.md) — Master test strategy covering all 73 automated test scenarios.
 - [`docs/TEST_EXECUTION_REPORT.md`](file:///c:/Users/HEMANTH/Documents/SDETintern/docs/TEST_EXECUTION_REPORT.md) — Detailed execution log and timing metrics.
 - [`docs/CARTFLOW_4_RELEASE_REPORT.md`](file:///c:/Users/HEMANTH/Documents/SDETintern/docs/CARTFLOW_4_RELEASE_REPORT.md) — Final audit, security verification, and release summary.
+=======
+# cartflow-marketplace
+A modern multi-collection e-commerce marketplace built with React, TypeScript, and Playwright, featuring product discovery, shopping cart, wishlist, offers, coupon discounts, and automated testing.
+>>>>>>> origin/main
